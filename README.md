@@ -1,14 +1,11 @@
 <!-- font : &text=MINJOONG&fontAlignY=40&fontSize=50&animation=fadeIn -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header)
 
-
-## Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-> 
+##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there!
+> lorem ipsom
 
 ## 👨‍💻 Tech Stack
-> Here is a list of tech stacks you are currently learning and interested in.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falswnd3746%2Fhit-counter&count_bg=%2358E397&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+> lorem ipsom
 
 ## ✨ GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=dark&show_icons=true)
