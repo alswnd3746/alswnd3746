@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=MINJOONG&fontAlignY=40&fontSize=50&animation=fadeIn)
 
+
+<h2>Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h4>
+
+
 ## 👨‍💻 Tech Stack
 > Here is a list of tech stacks you are currently learning and interested in.
 
