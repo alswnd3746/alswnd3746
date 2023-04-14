@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=nord&show_icons=true)
+
 <!--
 **alswnd3746/alswnd3746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
