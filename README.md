@@ -1,22 +1,16 @@
 <!-- font : &text=MINJOONG&fontAlignY=40&fontSize=50&animation=fadeIn -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header)
 
-##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there!
-> lorem ipsom
+##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there! I'm Minjoong Kim
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem explicabo, illum minus natus odit reiciendis vitae. Cumque distinctio ducimus expedita fugiat, illo laboriosam libero, nesciunt nulla, recusandae sed soluta voluptatibus?
 
 ## 👨‍💻 Tech Stack
-> lorem ipsom
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem explicabo, illum minus natus odit reiciendis vitae. Cumque distinctio ducimus expedita fugiat, illo laboriosam libero, nesciunt nulla, recusandae sed soluta voluptatibus?
 
 ## ✨ GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=dark&show_icons=true)
 
 ## 💬 ETC 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem explicabo, illum minus natus odit reiciendis vitae. Cumque distinctio ducimus expedita fugiat, illo laboriosam libero, nesciunt nulla, recusandae sed soluta voluptatibus?
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=footer)
