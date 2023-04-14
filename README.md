@@ -5,7 +5,7 @@
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem explicabo, illum minus natus odit reiciendis vitae. Cumque distinctio ducimus expedita fugiat, illo laboriosam libero, nesciunt nulla, recusandae sed soluta voluptatibus?
 
 ## 👨‍💻 Tech Stack
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem explicabo, illum minus natus odit reiciendis vitae. Cumque distinctio ducimus expedita fugiat, illo laboriosam libero, nesciunt nulla, recusandae sed soluta voluptatibus?
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
 ## ✨ GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=dark&show_icons=true)
