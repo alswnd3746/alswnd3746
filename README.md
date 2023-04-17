@@ -1,8 +1,11 @@
-<!-- font : &text=MINJOONG&fontAlignY=40&fontSize=50&animation=fadeIn -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=MINJOONG's%20Github&fontAlignY=40&fontSize=50&animation=fadeIn)
 
 ##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there! I'm Minjoong Kim
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem explicabo, illum minus natus odit reiciendis vitae. Cumque distinctio ducimus expedita fugiat, illo laboriosam libero, nesciunt nulla, recusandae sed soluta voluptatibus?
+> 새로운 기술에 다가가는 것을 좋아합니다.
+> 
+> 오류를 해결하는 걸 좋아합니다. 원하는 오류를 일으켜 수정하는 것을 더 좋아합니다.
+>
+> 최고의 도구로 화려하게 사용하기보단 상황에 맞는 도구를 적절하게 사용하는 것을 좋아합니다.
 
 ## 👨‍💻 Tech Stack
 <!-- HTML -->
