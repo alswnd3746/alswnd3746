@@ -47,7 +47,4 @@
 ## ✨ GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=dark&show_icons=true)
 
-## 💬 ETC 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem explicabo, illum minus natus odit reiciendis vitae. Cumque distinctio ducimus expedita fugiat, illo laboriosam libero, nesciunt nulla, recusandae sed soluta voluptatibus?
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=footer)
