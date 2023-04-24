@@ -7,6 +7,9 @@
 >
 > 최고의 도구로 화려하게 사용하기보단 상황에 맞는 도구를 적절하게 사용하는 것을 좋아합니다.
 
+## ✨ GitHub Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=dark&show_icons=true)
+
 ## 👨‍💻 Tech Stack
 <!-- HTML -->
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -46,8 +49,5 @@
 
 <!-- Tool -->
 <img src="https://img.shields.io/badge/webstorm-000000?style=flat&logo=webstorm&logoColor=white"/> <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/gitkraken-179287?style=flat&logo=gitkraken&logoColor=white"/>
- 
-## ✨ GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=dark&show_icons=true)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=footer)
