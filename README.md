@@ -29,9 +29,6 @@
 <!-- SSR -->
 <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
-<!-- Story Book -->
-<img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>
-
 <!-- App -->
 <img src="https://img.shields.io/badge/reactnative-61DAFB?style=flat&logo=react&logoColor=black"/>
 
