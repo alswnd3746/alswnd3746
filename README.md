@@ -1,3 +1,5 @@
+<!-- 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=MINJOONG's%20Github&fontAlignY=40&fontSize=50&animation=fadeIn)
 
 ##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there! I'm Minjoong Kim
@@ -13,26 +15,27 @@
 ## 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
 
-<!-- React -->
+
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat&logo=reacthookform&logoColor=white"/> <img src="https://img.shields.io/badge/mui-007FFF?style=flat&logo=mui&logoColor=white"/> 
 
-<!-- Vue -->
+
 <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/quasar-1976D2?style=flat&logo=quasar&logoColor=white"/>
 
-<!-- Node -->
+
 <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
 
-<!-- SSR -->
+
 <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
-<!-- App -->
+
 <img src="https://img.shields.io/badge/reactnative-61DAFB?style=flat&logo=react&logoColor=black"/>
 
-<!-- Testing Tool -->
+
 <img src="https://img.shields.io/badge/testinglibrary-E33332?style=flat&logo=testinglibrary&logoColor=white"/> 
 
 
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=footer)
+
+-->
