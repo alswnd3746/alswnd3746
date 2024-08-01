@@ -1,5 +1,3 @@
-<!-- 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=MINJOONG's%20Github&fontAlignY=40&fontSize=50&animation=fadeIn)
 
 ##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there! I'm Minjoong Kim
@@ -37,5 +35,3 @@
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=footer)
-
--->
