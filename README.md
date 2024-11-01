@@ -11,27 +11,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswnd3746&theme=dark&show_icons=true)
 
 ## 👨‍💻 Tech Stack
-<img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
-
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat&logo=reacthookform&logoColor=white"/> <img src="https://img.shields.io/badge/mui-007FFF?style=flat&logo=mui&logoColor=white"/> 
-
-
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/quasar-1976D2?style=flat&logo=quasar&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
-
-<img src="https://img.shields.io/badge/reactnative-61DAFB?style=flat&logo=react&logoColor=black"/>
-
-
-<img src="https://img.shields.io/badge/testinglibrary-E33332?style=flat&logo=testinglibrary&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=footer)
